@@ -14,4 +14,4 @@
 
 ### Setting up
 
-+ 確認 LiDAR 和電腦 port IP，注意兩者不可以重覆
++ 實驗室雲端
